@@ -6,6 +6,7 @@
 
 header {
   background-color: #171754;
+  padding: 10px;
 }
 
 h1 {
@@ -13,5 +14,28 @@ h1 {
   font-size: 25px;
   font-weigth: 700;
   color: white;
+}
+
+button {
+  border: 3px #46d8fd;
+  border-radius: 1px;
+  background-color: white;
+  color: #fd4665;
+  text-decoration: none;
+  font-family: "Open Sans", sans-serif;
+  font-size: 15px;
+  padding: 5px;
+}
+
+section {
+  padding: 10px;
+  background-color: #f9feff;
+}
+
+section #cont h2 {
+  font-family: "Open Sans", sans-serif;
+  font-size: 18px;
+  font-weigth: 400;
+  color: #171754;
 }
 /*# sourceMappingURL=index.css.map */
